@@ -2,7 +2,7 @@ THIS SOFTWARE WORKS BY taking A TRANSACTION FROM BLOCKCHAIN NETWORK AND RETURNIN
 CREATING A FAKE TRANSACTION BUT LIKE REAL
 Crypto Wallets-
 1. Binance (BTC & USDT Only P2p/ Stake.com withdrawal Accepted ) BUT DONT Future Trad 
-2. Coinbase All Coin like ETH,BTC,LTC,USDT, TRX ,DOGE,TRB etc
+2. Coinbase All Coin like ETH,BTC,LTC,USDT, TRX , DOGE,TRB etc
 3. bybit (BTC & USDT Only P2P) 
 
 4.🔥 Stake.com (casino site) Diposit/withdrawal Accepted )
